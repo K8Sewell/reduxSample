@@ -1,6 +1,6 @@
 # Sample Redux in React App
 
-Visit this link for the [redux tutorial](https://redux.js.org/basics/example/) this project was started with.
+Visit this link for the [redux tutorial](https://redux.js.org/basics/basic-tutorial) this project was started with.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
