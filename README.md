@@ -1,3 +1,7 @@
+# Sample Redux in React App
+
+Visit this link for the [redux tutorial](https://redux.js.org/basics/example/) this project was started with.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,4 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# Sample Redux in React App
+
