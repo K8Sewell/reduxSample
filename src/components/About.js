@@ -1,7 +1,7 @@
 // imports library
 import React from 'react'
 
-// functional component acting as main container for application
+// functional component acting as description for application
 const About = () => (
     <div>
       <h1>About</h1>
