@@ -1,6 +1,8 @@
 # Sample Redux in React App
 
-Visit this link for the [redux tutorial](https://redux.js.org/basics/basic-tutorial) this project was started with.
+Visit this link for the [redux tutorial](https://redux.js.org/basics/basic-tutorial) this project was started with. WIP - implement theme switcher.
+
+Additional resource - [EggHead Redux Tutorial](https://egghead.io/lessons/react-redux-the-single-immutable-state-tree)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
